@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f1ede0f42c0e8ba418120e90ada4b7f7
+timeCreated: 1514926639
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Amatic
+  fontNames:
+  - Amatic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 38bbf0dbc3897694282eaf191943220a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
